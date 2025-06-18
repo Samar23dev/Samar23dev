@@ -112,4 +112,7 @@ I'm always open to collaborating on interesting projects, sharing knowledge, or 
   <a href="https://www.codechef.com/users/samar23dev" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
+  <a href="]https://codeforces.com/profile/samarmittal59" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445CC8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
 </p>
