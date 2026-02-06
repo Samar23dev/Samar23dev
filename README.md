@@ -60,32 +60,22 @@ Here's a snapshot of the technologies and tools I enjoy working with:
 
 Here are some key projects from my GitHub portfolio, demonstrating my capabilities and interests:
 
-#### 1. DocIntel (IntelliDocs)
-* **Description:** An intelligent document processing and analysis system powered by AI for automated document understanding and insights extraction.
-* **Tech Stack:** Python, NLP, Machine Learning, Document Processing APIs
-* **Key Features:** Advanced document parsing, intelligent information extraction, automated summarization, and semantic search capabilities.
-
-#### 2. GroMo AI Sales Coach
+#### 1. GroMo AI Sales Coach
 * **Description:** Developed an AI sales coach to optimize performance using ML models for prediction/forecasting. This system provides personalized insights and strategies.
 * **Tech Stack:** Python, Flask, TensorFlow, Keras, MongoDB
 * **Key Features:** Built Flask REST APIs for personalized insights, strategies, and lead generation, integrated with mobile.
 
-#### 3. GeoSpatial News Scraper and Analyzer
+#### 2. GeoSpatial News Scraper and Analyzer
 * **Description:** Created a real-time disaster information platform, scraping news with NLP (spaCy) for key insights.
 * **Tech Stack:** Python, MongoDB, Streamlit, Flutter, Folium, spaCy, Windy API
 * **Key Features:** Visualized data via interactive maps (Folium, Windy API) and developed a cross-platform Flutter app.
 
-#### 3. GeoSpatial News Scraper and Analyzer
-* **Description:** Created a real-time disaster information platform, scraping news with NLP (spaCy) for key insights.
-* **Tech Stack:** Python, MongoDB, Streamlit, Flutter, Folium, spaCy, Windy API
-* **Key Features:** Visualized data via interactive maps (Folium, Windy API) and developed a cross-platform Flutter app.
-
-#### 4. E-Health Care System
+#### 3. E-Health Care System
 * **Description:** A CLI-based healthcare system designed to simulate patient and appointment workflows, ensuring data persistence.
 * **Tech Stack:** Java, File Handling, Object Serialization
 * **Key Features:** Built a CLI-based healthcare system simulating patient/appointment workflows with Java I/O & serialization. Ensured data persistence and demonstrated modular OOP design.
 
-#### 5. Space Allocation System
+#### 4. Space Allocation System
 * **Description:** An ML solution developed to optimize retail storage by leveraging historical sales data for predictive analytics.
 * **Tech Stack:** Python, Flask, TensorFlow, Keras, MongoDB, REST API
 * **Key Features:** Designed an ML solution to optimize retail storage using historical sales data for prediction. Developed TensorFlow-Keras model and Flask REST APIs for real-time storage recommendations.
@@ -95,24 +85,12 @@ Here are some key projects from my GitHub portfolio, demonstrating my capabiliti
 ### 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samar23dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar23dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samar23dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samar23dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samar23dev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samar23dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Samar23dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=Samar23dev&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Samar's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Samar23dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar23dev&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  </a>
 </p>
 
 ---
@@ -134,13 +112,7 @@ I'm always open to collaborating on interesting projects, sharing knowledge, or 
   <a href="https://www.codechef.com/users/samar23dev" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
-  <a href="https://codeforces.com/profile/samarmittal59" target="_blank">
+  <a href="]https://codeforces.com/profile/samarmittal59" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445CC8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/Samar23dev">Samar23dev</a></i>
 </p>
