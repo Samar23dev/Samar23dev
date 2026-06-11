@@ -251,23 +251,6 @@ A robust multi-tier healthcare application with enterprise-grade architecture:
 
 ---
 
-## 📱 Coding Journey & Platform Performance
-
-<div align="center">
-
-### Competitive Programming Performance
-
-| Platform | Max Rating | Problems Solved | Achievement |
-|----------|-----------|-----------------|-------------|
-| **LeetCode** | 🔴 1790 | 400+ | Top 5% globally |
-| **CodeChef** | 🟠 1573 | 200+ | Expert tier |
-| **Codeforces** | 🔵 1092 | 150+ | Candidate Master |
-| **HackerRank** | 5⭐ | 100+ | Advanced Badge |
-
-</div>
-
----
-
 ## 🎯 Real-World Project Impact
 
 ### By The Numbers
