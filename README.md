@@ -25,7 +25,7 @@
 
 | Metric | Value |
 |--------|-------|
-| 🎓 **CGPA** | 9.69 (Rank 2 in Batch) |
+| 🎓 **CGPA** | 9.73 (Rank 2 in Batch) |
 | 🧠 **AI Honors** | 10.0 GPA (Rank 1) |
 | 💻 **DSA Problems** | 500+ Solved |
 | 🏆 **Hackathon Wins** | 1st Place |
