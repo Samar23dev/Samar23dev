@@ -84,25 +84,35 @@ I'm a dedicated software developer pursuing a Bachelor of Technology in Computer
 
 ## 🚀 Featured Projects
 
-### 1️⃣ IntelliDocs: Multilingual Document Intelligence Platform
-**Tech Stack:** `FastAPI` `React` `LLM (Ollama)` `Tesseract OCR` `MongoDB` `Chart.js`
+### 1️⃣ DocIntel — AI Research Workspace
+**Tech Stack:** `Next.js` `FastAPI` `SurrealDB` `Docker` `AI/LLM Providers`
 
-An interactive web application that transforms document processing through AI:
-- 🎯 **90%+ accuracy** on image and handwritten document recognition
-- 🔍 **Semantic search engine** using TF-IDF for intelligent document retrieval
-- 📊 **Automated visualization** with intelligent Chart.js integration
-- 🗂️ **Smart categorization** via LLM-powered RAG pipeline
-- 📈 **Real-time indexing** for unstructured document data
+An AI-powered workspace for organizing and exploring documents, notes, URLs, and other sources:
+- 📚 Create notebooks and bring related sources together
+- 🔎 Search notebook content and ask questions with source context
+- ✨ Generate notes, summaries, insights, transformations, and podcasts
+- 📊 Create and export visualizations, charts, and diagrams
+- 🌐 Configure AI providers and models, including local model options
 
-**Key Features:**
-- Multi-language support for global document processing
-- OCR pipeline with high accuracy on complex layouts
-- Reliability engine for automated data quality validation
-- Scalable MongoDB backend for massive document repositories
+[Explore DocIntel](https://github.com/Samar23dev/DocIntel)
 
 ---
 
-### 2️⃣ GeoSpatial News Scraper and Analyzer
+### 2️⃣ KanosClient — Cross-Platform Desktop Database Client
+**Tech Stack:** `Tauri 2` `Rust` `Svelte 5` `SQLite`
+
+A native desktop database client focused on speed, security, and a responsive workflow:
+- ⚡ Native desktop experience powered by Tauri and Rust
+- 🗃️ Production-stabilized SQLite support
+- 🧭 Query editor, schema browsing, and table editing
+- 📤 Export query results as CSV or JSON
+- 🔐 Local-first design with careful credential handling
+
+[View KanosClient](https://github.com/Samar23dev/KanosClient) · 🔒 Private repository
+
+---
+
+### 3️⃣ GeoSpatial News Scraper and Analyzer
 **Tech Stack:** `Python` `MongoDB` `Streamlit` `Flutter` `Folium` `spaCy` `Google-GenAI`
 
 A cross-platform geospatial intelligence engine for real-time disaster monitoring:
@@ -121,7 +131,7 @@ A cross-platform geospatial intelligence engine for real-time disaster monitorin
 
 ---
 
-### 3️⃣ E-Health Care System
+### 4️⃣ E-Health Care System
 **Tech Stack:** `Java 21` `JavaFX` `PostgreSQL` `JDBC` `MVC Pattern` `DAO Pattern`
 
 A robust multi-tier healthcare application with enterprise-grade architecture:
@@ -181,7 +191,7 @@ A robust multi-tier healthcare application with enterprise-grade architecture:
 
 ## 🏆 Achievements & Accolades
 
-### 🎯 Competitive Programming
+### ��� Competitive Programming
 - Solved **500+** algorithmic problems across multiple platforms
 - **LeetCode:** Max Rating **1790** 
 - **CodeChef:** Max Rating **1573**
