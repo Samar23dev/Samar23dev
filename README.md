@@ -40,7 +40,7 @@
 I'm a dedicated software developer pursuing a Bachelor of Technology in Computer Science and Engineering with honors in Artificial Intelligence at IIIT Pune. My journey is driven by curiosity and a passion for solving complex problems.
 
 **Key Highlights:**
-- 🥇 Currently ranked **2nd in my batch** with a stellar **9.69 CGPA**
+- 🥇 Currently ranked **2nd in my batch** with a stellar **9.73 CGPA**
 - 🤖 Deep expertise in **AI/ML, LLMs, and RAG pipelines**
 - 🔧 Full-stack developer with **systems design** knowledge
 - 🏆 Solved **500+ algorithmic problems** across competitive platforms
@@ -155,7 +155,7 @@ A robust multi-tier healthcare application with enterprise-grade architecture:
 ### 🏫 Indian Institute of Information Technology (IIIT), Pune
 **Bachelor of Technology in Computer Science & Engineering**
 - **Duration:** Aug 2023 - Present
-- **CGPA:** 9.69 (Rank 2 in Batch)
+- **CGPA:** 9.73 (Rank 2 in Batch)
 - **AI Honors:** 10.0 GPA (Rank 1)
 - **Specialization:** Artificial Intelligence with Honors
 
@@ -191,7 +191,7 @@ A robust multi-tier healthcare application with enterprise-grade architecture:
 
 ## 🏆 Achievements & Accolades
 
-### ��� Competitive Programming
+### 🎯 Competitive Programming
 - Solved **500+** algorithmic problems across multiple platforms
 - **LeetCode:** Max Rating **1790** 
 - **CodeChef:** Max Rating **1573**
@@ -200,7 +200,7 @@ A robust multi-tier healthcare application with enterprise-grade architecture:
 - Consistent top performer in weekly contests
 
 ### 🌟 Academic Excellence
-- **Ranked 2nd** in entire batch with **9.69 CGPA**
+- **Ranked 2nd** in entire batch with **9.73 CGPA**
 - Achieved perfect **10.0 GPA** in second-year courses
 - Scored **10.0 grade points** in BTech Honors AI specialization
 - Dean's List for academic merit
